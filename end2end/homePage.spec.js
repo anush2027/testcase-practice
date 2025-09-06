@@ -16,7 +16,7 @@ test.beforeEach(async({ page })=>{
 });
 
 
-    test.only("new signUp test case",async()=>{
+    test("new signUp test case",async()=>{
         await login.moveToPage("https://www.automationexercise.com/login");
         await login.signUpUser("https://www.automationexercise.com/signup");
         await login.account();
@@ -54,6 +54,13 @@ test.beforeEach(async({ page })=>{
         await login.textFromUI();
         await head.viewProductLoop();
         })
+
+    test("github code check",async()=>{
+        await login.mainPage("https://www.automationexercise.com");
+        await login.content();
+        
+    })
+
 
     })
 
