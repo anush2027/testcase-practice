@@ -16,7 +16,7 @@ test.beforeEach(async({ page })=>{
 });
 
 
-    test.skip("new signUp test case",async()=>{
+    test.only("new signUp test case",async()=>{
         await login.moveToPage("https://www.automationexercise.com/login");
         await login.signUpUser("https://www.automationexercise.com/signup");
         await login.account();
