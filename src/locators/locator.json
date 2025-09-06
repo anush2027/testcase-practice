@@ -1,0 +1,208 @@
+{
+"viewText":"//b[normalize-space()='Enter Account Information']",
+"containText":"//b[normalize-space()='Enter Account Information']",
+
+
+"email":"//input[@data-qa='login-email']",
+"password":"//input[@placeholder='Password']",
+"login":"//button[normalize-space()='Login']",
+
+
+"automationText":"//div[@class='item active']//h1[1]",
+"fullFedgeText":"//div[@class='item active']//h2[contains(text(),'Full-Fledged practice website for Automation Engin')]",
+"allQaText":"//div[@class='item active']//p[contains(text(),'All QA engineers can use this website for automati')]",
+
+
+"brands":"//h2[normalize-space()='Brands']",
+
+"featureText":"//h2[normalize-space()='Features Items']",
+
+"categoryVisible":"//h2[normalize-space()='Category']",
+"womenClick":"//a[normalize-space()='Women']",
+"dress":"//div[@id='Women']//a[contains(text(),'Dress')]",
+"top":"//a[normalize-space()='Tops']",
+"saree":"//a[normalize-space()='Saree']",
+
+
+"men":"//a[normalize-space()='Men']",
+"tshirt":"//a[normalize-space()='Tshirts']",
+"jeans":"//a[normalize-space()='Jeans']",
+"plus":"//a[normalize-space()='Kids']//i[@class='fa fa-plus']",
+"kidsDress":"//div[@id='Kids']//a[contains(text(),'Dress')]",
+"topAndShirt":"//a[normalize-space()='Tops & Shirts']",
+
+
+"brandPolo":"//a[@href='/brand_products/Polo']",
+
+"brandUi":"//h2[contains(text(),'Brand -')]",
+"product1":"(//a[contains(text(),'View Product')])[1]",
+"nameOfBrand":"//body//section//p[4]",
+
+
+"product2":"(//a[contains(text(),'View Product')])[2]",
+
+"product3":"(//a[contains(text(),'View Product')])[3]",
+
+"product4":"(//a[contains(text(),'View Product')])[4]",
+
+"product5":"(//a[contains(text(),'View Product')])[5]",
+
+"product6":"(//a[contains(text(),'View Product')])[6]",
+
+"babyhug":"//a[@href='/brand_products/Babyhug']",
+"babyhug1":"(//a[contains(text(),'View Product')])[1]",
+"brandbabyhug":"//body//section//p[4]",
+
+"babyhug2":"(//a[contains(text(),'View Product')])[2]",
+
+"babyhug3":"(//a[contains(text(),'View Product')])[3]",
+
+"babyhug4":"(//a[contains(text(),'View Product')])[4]",
+
+"title":"(//h4[@class='panel-title'])[2]",
+"jean1":"//div[@class='productinfo text-center']//p[contains(text(),'Soft Stretch Jeans')]",
+"jean2":"//div[@class='productinfo text-center']//p[contains(text(),'Regular Fit Straight Jeans')]",
+"jean3":"//div[@class='productinfo text-center']//p[contains(text(),'Grunt Blue Slim Fit Jeans')]",
+
+
+"menClick":"//a[normalize-space()='Men']",
+"tshirtClick":"//a[normalize-space()='Tshirts']",
+"menTshirt":"//h2[contains(text(),'Men -')]",
+"tshirt1":"//body/section/div[@class='container']/div[@class='row']/div[@class='col-sm-9 padding-right']/div[@class='features_items']/div[2]/div[1]/div[1]/div[1]/p[1]",
+"tshirt2":"//div[@class='productinfo text-center']//p[contains(text(),'Green Side Placket Detail T-Shirt')]",
+"tshirt3":"//div[@class='productinfo text-center']//p[contains(text(),'Premium Polo T-Shirts')]",
+"tshirt4":"//div[@class='productinfo text-center']//p[contains(text(),'Pure Cotton Neon Green Tshirt')]",
+"tshirt5":"//div[@class='productinfo text-center']//p[contains(text(),'GRAPHIC DESIGN MEN T SHIRT - BLUE')]",
+
+
+"homeVisible":"//a[normalize-space()='Home']",
+"clickPage":"//a[normalize-space()='Signup / Login']",
+"newUserVisible":"//h2[normalize-space()='New User Signup!']",
+"nameTextBox":"//input[@placeholder='Name']",
+"emailTextBox":"//input[@data-qa='signup-email']",
+"clickSignUp":"//button[normalize-space()='Signup']",
+
+"AccInforVisible":"//b[normalize-space()='Enter Account Information']",
+"genderCheck":"//input[@id='id_gender1']",
+"passwordForAcc":"//input[@id='password']",
+"date":"//select[@id='days']",
+"month":"//select[@id='months']",
+"year":"//select[@id='years']",
+"newsLetterClick":"//input[@id='newsletter']",
+"optionClick":"//input[@id='optin']",
+"firstName":"//input[@id='first_name']",
+"lastName":"//input[@id='last_name']",
+"companyName":"//input[@id='company']",
+"address1":"//input[@id='address1']",
+"address2":"//input[@id='address2']",
+"country":"//select[@id='country']",
+"state":"//input[@id='state']",
+"city":"//input[@id='city']",
+"zipcoce":"//input[@id='zipcode']",
+"mobileNumber":"//input[@id='mobile_number']",
+"clickCreateAcc":"//button[normalize-space()='Create Account']",
+"accCreatedVisible":"//b[normalize-space()='Account Created!']",
+"clickContinueBtn":"//a[normalize-space()='Continue']",
+
+"accNameVisible":"//li[10]//a[1]",
+"clickDeleteAcc":"//a[normalize-space()='Delete Account']",
+"accDeleteVisible":"//b[normalize-space()='Account Deleted!']",
+"continueBtn":"//a[normalize-space()='Continue']",
+
+"homePageVisible":"//div[@class='item active']//h1[1]",
+"signUpBtn":"//a[normalize-space()='Signup / Login']",
+"loginToUserTextVisible":"//h2[normalize-space()='Login to your account']",
+"loginEmail":"//input[@data-qa='login-email']",
+"loginPassword":"//input[@placeholder='Password']",
+"loginBtn":"//button[normalize-space()='Login']",
+"homeText":"//header[@id='header']//li[1]//a[1]",
+"deleteAccBtn":"//a[normalize-space()='Delete Account']",
+"accountDeleteVisible":"//b[normalize-space()='Account Deleted!']",
+
+"textOfEmailIncorrect":"//p[normalize-space()='Your email or password is incorrect!']",
+
+"logoutBtn":"//a[normalize-space()='Logout']",
+
+"emailAlreadyExist":"//p[normalize-space()='Email Address already exist!']",
+
+"testCaseClickBtn":"//a[normalize-space()='Test Cases']",
+"testCasePageVisible":"//section[@id='form']",
+
+"productPage":"//a[@href='/products']",
+"feauturesItemVisible":"//div[@class='features_items']",
+"itemOne":"(//a[contains(text(),'View Product')])[1]",
+"firstProductDetails":"//div[@class='product-information']",
+
+"searchTextBox":"//input[@id='search_product']",
+"searchButton":"//i[@class='fa fa-search']",
+"searchProductVisible":"//h2[normalize-space()='Searched Products']",
+"searchedproductdetail":"//div[@class='productinfo text-center']",
+
+"subscriptionText":"//h2[normalize-space()='Subscription']",
+"forSubscriptionEmail":"//input[@id='susbscribe_email']",
+"subscriptionArrow":"//i[@class='fa fa-arrow-circle-o-right']",
+"successMessage":"//div[@class='alert-success alert']",
+
+"cartPage":"//body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+
+"productClick":"//ul[@class='nav navbar-nav']//li//a[@href='/products']",
+"firstProductClick":"(//a[@class='btn btn-default add-to-cart'][normalize-space()='Add to cart'])[1]",
+"continueShopping":"//button[normalize-space()='Continue Shopping']",
+"secondProductClick":"(//a[@class='btn btn-default add-to-cart'][normalize-space()='Add to cart'])[3]",
+"viewCart":"//u[normalize-space()='View Cart']",
+"productOneVisible":"//tr[@id='product-1']",
+"productTwoVisible":"//tr[@id='product-2']",
+"productPrice":"//tr[@id='product-1']//td[@class='cart_price']",
+"quantityVisible":"//tr[@id='product-1']//button[@class='disabled'][normalize-space()='1']",
+"totalPrice":"//p[@class='cart_total_price'][normalize-space()='Rs. 500']",
+"itemPrice":"//td[@class='cart_price']//p[contains(text(),'Rs. 400')]",
+"visibleOfQuantity":"//tr[@id='product-2']//button[@class='disabled'][normalize-space()='1']",
+"totalAmountPrice":"//p[@class='cart_total_price'][normalize-space()='Rs. 400']",
+
+"cartClick":"//a[normalize-space()='Cart']",
+"exactCount":"//button[normalize-space()='4']",
+
+"cartItemsVisible":"//body/section[@id='cart_items']/div[1]",
+"proceedToCheck":"//a[normalize-space()='Proceed To Checkout']",
+"registerLogin":"//u[normalize-space()='Register / Login']",
+
+"addressDetailVisible":"//h2[normalize-space()='Address Details']",
+"reviewOrdVisible":"//h2[normalize-space()='Review Your Order']",
+"clickPlaceOrd":"//a[normalize-space()='Place Order']",
+
+"cardName":"//input[@name='name_on_card']",
+"cardNumber":"//input[@name='card_number']",
+"expDate":"//input[@placeholder='ex. 311']",
+"expMonth":"//input[@placeholder='MM']",
+"expYear":"//input[@placeholder='YYYY']",
+"submitBtn":"//button[@id='submit']",
+"congratsText":"//p[normalize-space()='Congratulations! Your order has been confirmed!']",
+
+"removeItems":"//tr[@id='product-1']//a[@class='cart_quantity_delete']",
+"removedItemVisible":"//tr[@id='product-2']",
+
+"dressClick":"//div[@id='Women']//li[1]",
+
+"featureItemsVisible":"//div[@class='features_items']",
+"brandProduct":"//div[@class='brands_products']",
+"brandProdClick":"//a[@href='/brand_products/Polo']",
+"brandBibaClick":"//a[@href='/brand_products/Biba']",
+
+"clickViewProduct":"(//a[contains(text(),'View Product')])[1]",
+"reviewVisible":"//a[normalize-space()='Write Your Review']",
+"reviewName":"//input[@id='name']",
+"reviewEmail":"//input[@id='email']",
+"reviewText":"//textarea[@id='review']",
+"reviewBtn":"//button[@id='button-review']",
+"reviewsuccess":"//span[normalize-space()='Thank you for your review.']",
+
+"recommendItems":"//div[@class='recommended_items']",
+"recommendProductClick":"(//a[@class='btn btn-default add-to-cart'][normalize-space()='Add to cart'])[70]",
+
+"productVisible":"//tr[@id='product-2']",
+
+"fullFedgeTextVisible":"//div[@class='item active']//h2[contains(text(),'Full-Fledged practice website for Automation Engin')]"
+}
+
+
+

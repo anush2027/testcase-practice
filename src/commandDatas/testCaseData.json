@@ -1,0 +1,88 @@
+{
+"name":"automation",
+"email":"automation12345@gmail.com",
+
+"text":"Enter Account Information",
+
+"automationText":"AutomationExercise",
+
+"brands":"Brands",
+
+"uiText":"Features Items",
+
+"categories":"Category",
+
+"dress":"Dress",
+"tops":"Tops",
+"saree":"Saree",
+
+"tshirt":"Tshirts",
+"jeans":"Jeans",
+"kidsDress":"Dress",
+"topAndShirt":"Tops & Shirts",
+
+"brandUi":"Brand -  Polo Products",
+"nameOfBrand":"Brand: Polo",
+
+"brandbabyhug":"Brand: Babyhug",
+
+"men":"Men",
+
+"menTshirt":"Men -  Tshirts Products",
+"tshirt1":"Tshirt",
+"tshirt2":"T-Shirt",
+"tshirt3":"T-Shirts",
+"tshirt4":" T SHIRT",
+
+"signUpName":"playwright",
+"signUpEmail":"playwright101010@gmail.com",
+
+"inCrtName":"automation",
+"inCrtEmail":"automation123@gmail.com",
+
+"passwordForAcc":"123456789",
+"dateOfBirth":"20",
+"dateOfMonth":"2",
+"dateOfYear":"2000",
+"firstName":"playwright",
+"secondName":"tool",
+"companyName":"Automation Exercise",
+"address1":"30/abc layout",
+"address2":"gandhipuram",
+"country":"India",
+"state":"tamil nadu",
+"city":"coimbatore",
+"pincode":"641002",
+"phoneNumber":"9894124201",
+
+"loginCrtEmail":"playwright206@gmail.com",
+"loginCrtPassword":"123456789",
+
+"crtEmail":"playwright111@gmail.com",
+"crtPassword":"123456789",
+
+"loginIncorrectEmail":"playwright1@gmail.com",
+"loginIncorrectPassword":"12345",
+
+"forLogoutEmail":"playwright204@gmail.com",
+"forLogoutPassword":"123456789",
+
+"searchedproductName":"Soft Stretch Jeans",
+
+"subscriptionemail":"Subscription",
+
+"amountOfFirstItem":"Rs. 500",
+"amtOfSecondItem":"Rs. 400",
+
+"multiCount":"4",
+
+"signUpPlaceOrd":"playwright209@gmail.com",
+
+"cardNum":"1234567891234567",
+"expDate":"123",
+"expMonth":"02",
+"expYear":"2060",
+
+"reviewMessage":"Nice Dress"
+
+}
