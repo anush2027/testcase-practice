@@ -182,8 +182,8 @@ async addProductAndLogin(){
 }
 
 async createAccount(){
-        await this.currentPage.locator(locator.nameTextBox).fill(datas.signUpName)
-        await this.currentPage.locator(locator.emailTextBox).fill(datas.signUpEmail)
+        await this.currentPage.locator(locator.nameTextBox).fill(datas.placeOrderName)
+        await this.currentPage.locator(locator.emailTextBox).fill(datas.placeOrderEmail)
         await this.currentPage.click(locator.clickSignUp)
         await this.currentPage.click(locator.genderCheck)
         await this.currentPage.locator(locator.passwordForAcc).fill(datas.passwordForAcc)

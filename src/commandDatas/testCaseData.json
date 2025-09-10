@@ -1,6 +1,6 @@
 {
-"name":"automation",
-"email":"automation12345@gmail.com",
+"name":"playwright",
+"email":"playwrighttesting1234@gmail.com",
 
 "text":"Enter Account Information",
 
@@ -35,7 +35,10 @@
 "tshirt4":" T SHIRT",
 
 "signUpName":"playwright",
-"signUpEmail":"playwright101010@gmail.com",
+"signUpEmail":"playwrighttesting123456@gmail.com",
+
+"placeOrderName":"playwright",
+"placeOrderEmail":"playwrighttesting112233@gmail.com",
 
 "inCrtName":"automation",
 "inCrtEmail":"automation123@gmail.com",
@@ -55,10 +58,10 @@
 "pincode":"641002",
 "phoneNumber":"9894124201",
 
-"loginCrtEmail":"playwright206@gmail.com",
+"loginCrtEmail":"playwrighttesting123@gmail.com",
 "loginCrtPassword":"123456789",
 
-"crtEmail":"playwright111@gmail.com",
+"crtEmail":"playwrighttesting1234@gmail.com",
 "crtPassword":"123456789",
 
 "loginIncorrectEmail":"playwright1@gmail.com",
